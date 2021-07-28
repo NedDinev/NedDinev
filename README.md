@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ned
+- 👀 I’m interested in Front-End Web Development
+- 🌱 I’m currently learning HTML, CSS, Javascript
+- 📫 You can reach me on ned.dinev@gmail.com
