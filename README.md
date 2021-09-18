@@ -1,6 +1,6 @@
 ### Hi there, I'm Ned👋
 - 🌱 I’m currently learning Front-end Web Development
-- 📈 Contributing daily
+- 📈 Daily Commits
 - 👀 I’m looking to collaborate with other programmers
 - 📧 Reach me at ned.dinev@gmail.com
 
