@@ -7,6 +7,6 @@
 
 #### USED LANGUAGES AND TOOLS:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,css,sass,bootstrap,nodejs,express,mongodb,mysql,php,github)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,react,css,sass,bootstrap,nodejs,express,mongodb,mysql,php,github)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NedDinev&show_icons=true&theme=radical)
