@@ -1,6 +1,4 @@
 ### Hi there, I'm Ned👋
-- 🌱 I’m currently learning Full Stack Web Development
-- 📈 Daily Commits
 - 👀 I’m looking to collaborate with other programmers
 - 📧 Reach me at ned.dinev@gmail.com
 
